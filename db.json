@@ -2,11 +2,10 @@
 	"open": {
 			
 		"ads": "max",
-		"BannerAdmob": "",
-		"IntersAdmob": "",
+		"banner": "ca-app-pub-3940256099942544/6300978111",
+		"inters": "ca-app-pub-3940256099942544/1033173712"
 		
-		"BannerApploving": "36e39ac0f94447a0",
-		"IntersApploving": "9e5ebcb5b915c428"
+		
 		
 	}
 }
