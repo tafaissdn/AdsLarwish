@@ -1,9 +1,10 @@
 {
 	"open": {
 			
-		"ads": "admob",
+		"ads": "max",
 		"banner": "ca-app-pub-9988521094839767/7030831643",
 		"inters": "ca-app-pub-9988521094839767/4021524920",
+		
 		"bannerMax": "36e39ac0f94447a0",
 		"intersMax": "9e5ebcb5b915c428"
 		
